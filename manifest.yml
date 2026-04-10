@@ -6,5 +6,7 @@ role: batch_connect
 description: |
   This app will launch a [MATLAB] GUI on a given cluster. You will be able
   to interact with the MATLAB GUI through a VNC session.
+  Check the [Changelog] for the recent updates. 
 
   [MATLAB]: https://www.mathworks.com/products/matlab.html
+  [Changelog]: https://github.com/OSC/bc_osc_matlab/releases
